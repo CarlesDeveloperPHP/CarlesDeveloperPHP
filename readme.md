@@ -1,5 +1,3 @@
+![work-in-progress](https://github.com/CarlesDeveloperPHP/CarlesDeveloperPHP/assets/145340070/d508e6c9-5529-4e2d-99ec-8689ec04359f)
 
- ![work-in-progress](https://github.com/CarlesDeveloperPHP/CarlesDeveloperPHP/assets/145340070/19b5908d-4f8d-4ac3-9592-9133a262d78f)
-
-<p>Actualmente en público sólo hay los ejercicios de IT Academy</p>
-
+<p>Estoy trabajando en un archivo readme nuevo.</p>
