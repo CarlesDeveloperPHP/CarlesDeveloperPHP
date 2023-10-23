@@ -8,7 +8,7 @@
 
 🌐![linkedin](https://github.com/CarlesDeveloperPHP/CarlesDeveloperPHP/assets/145340070/ac67ee96-28de-4541-af59-3d9b228f0132)
 
- https://es.linkedin.com/in/carles-ruiz-montejo-tecnico-de-campo-especialista![Uploading linkedin.png…]()
+ https://es.linkedin.com/in/carles-ruiz-montejo-tecnico-de-campo-especialista!
 
 
 
