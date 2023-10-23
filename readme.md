@@ -6,8 +6,10 @@
 🌱 Estudiante de Full-Stack en IT Academy
 🚀 Creando pequeños programas como hobby y algunos como freelance.
 
-🌐
-![linkedIn_PNG30](https://github.com/CarlesDeveloperPHP/CarlesDeveloperPHP/assets/145340070/4182651c-d29c-45d7-9e5b-fa128ef9fc45)  https://es.linkedin.com/in/carles-ruiz-montejo-tecnico-de-campo-especialista
+🌐![linkedin](https://github.com/CarlesDeveloperPHP/CarlesDeveloperPHP/assets/145340070/ac67ee96-28de-4541-af59-3d9b228f0132)
+
+ https://es.linkedin.com/in/carles-ruiz-montejo-tecnico-de-campo-especialista![Uploading linkedin.png…]()
+
 
 
 💻 Acerca de mí:  
